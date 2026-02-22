@@ -27,8 +27,8 @@ httpx==0.27.0
 python-json-logger==2.0.7
 
 # MoogzTrade SDK (local import)
-# Note: The SDK is imported locally from ../moogz_trade_sdk directory
-# Install with: pip install -e ../moogz_trade_sdk
+# MoogzTrade Showroom Dependencies
+# Note: Uses mock_sdk for public demo - no real SDK required
 
 # Streamlit for dashboard
 streamlit==1.38.0
